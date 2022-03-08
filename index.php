@@ -10,7 +10,8 @@
 	
 	<ul>
 		<li><a href="/index.php">HOME</a></li>
-		<li><a href="/LT2/index.html">LEARNING TASKS</a></li>
+		<li><a href="/LT2/index.html">LEARNING TASKS 2</a></li>
+		<li><a href="/LT3/index.html">LEARNING TASKS 3</a></li>
 	</ul>
 </body>
 </html>
