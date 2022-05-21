@@ -1,0 +1,197 @@
+body {
+    background-color: #8BADC4;
+    background-image: url('desktop1.png');
+	background-repeat:  no-repeat;
+	background-size:  cover;
+
+}
+h1{
+               
+    font-family: 'Zilla Slab', serif;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 20px;
+    color:#8BADC4;
+
+
+            }
+ h2{
+               
+    font-family: 'Zilla Slab', serif;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 15px;
+    color:#8BADC4;
+
+
+            }
+
+
+     
+		ul {
+				list-style-type: none;
+				margin-left:  0px;
+				padding: 0;
+			}
+
+			li {
+				display: inline-block;
+				margin: 25px;
+				position: relative;
+			}
+			li{
+				float: left;
+			}
+			li a{
+				display: block;
+				color:  black;
+				width: 60%;
+				text-align: center;
+				font-size: 20px;
+				padding: 35px 140px;
+				text-decoration: none;
+				background-color:  rgba(250,229,211);
+				float: left;
+				
+				margin: 0px auto;
+			}
+
+			li a:hover:not(.active){
+				backgound-color: rgba(229,211,250);
+			}
+
+			.active {
+				background-color: #FAE5D3;
+			}
+
+div.navbar{
+	font-famiy: 'Zilla Slab', serif; 
+	font-size: 15px;
+}
+
+
+h1.LT2 {
+    background-color: rgb(180,167,214) ;
+    width: 358px;
+    font-family: 'Zilla Slab', serif; 
+    text-align: center ;
+    height: 40px ;
+    background-position: center;
+    font-size: 25px;
+    padding-top: 25px;
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    padding-bottom: 25px;
+
+
+    
+} 
+h1.LT3 {
+    background-color: rgb(180,167,214) ;
+    width: 358px;
+    font-family: 'Zilla Slab', serif; 
+    text-align: center ;
+    height: 40px ;
+    background-position: center;
+    font-size: 25px;
+    padding-top: 25px;
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    padding-bottom: 25px;
+}
+h1.LT4 {
+   background-color: rgb(180,167,214) ;
+    width: 358px;
+    font-family: 'Zilla Slab', serif; 
+    text-align: center ;
+    height: 40px ;
+    background-position: center;
+    font-size: 25px;
+    padding-top: 25px;
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    padding-bottom: 25px;
+    
+    
+  
+}
+h1.LT5 {
+    background-color: rgb(180,167,214) ;
+    width: 358px;
+    font-family: 'Zilla Slab', serif; 
+    text-align: center ;
+    height: 40px ;
+    background-position: center;
+    font-size: 25px;
+    padding-top: 25px;
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    padding-bottom: 25px;
+    
+   
+}
+h1.CLE1MT {
+  background-color: rgb(180,167,214) ;
+    width: 358px;
+    font-family: 'Zilla Slab', serif; 
+    text-align: center ;
+    height: 40px ;
+    background-position: center;
+    font-size: 25px;
+    padding-top: 25px;
+    display: inline-block;
+    margin: 25px;
+    position: relative;
+    padding-bottom: 25px;
+
+   
+}
+
+
+h2.greeting{
+	font-family: 'Zilla Slab', serif;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 135px;
+}
+h2.myname{
+	font-family: 'Zilla Slab', serif;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+div.myyear{
+	font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    text-align: center;
+    background-position: center;
+    height: 70px;
+    width: 855px;
+    background-color: rgb(180,167,214) ; 
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+div.aboutmyself{
+	background-color: rgb(180,167,214) ;
+	width: 855px;
+	font-family: 'Zilla Slab', serif; 
+	text-align: center;
+	height: 165px ;
+	background-position: center;
+	font-size: 30px;
+
+
+}
+
+h1.mypicture{
+   width: 300px;
+   height: 40px;
+   padding-top: 5px;
+
+}
